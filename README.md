@@ -20,7 +20,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Improve the UI / UX of your app including icons, styling, color, spacing of your app.
+* [ ] Improve style of the todo items in the list using a custom adapter
+* [ ] Add support for completion due dates for todo items (and display within listview item)
+* [ ] Add support for selecting the priority of each todo item (and display in listview item)
 
 ## Video Walkthrough
 
